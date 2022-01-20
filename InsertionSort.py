@@ -1,7 +1,7 @@
 ## Insertion Sort Implementation
 ## Hezekiah Branch
 ## Wed Jan 19 2022
-## Purpose: O(nlogn) insertion sort
+## Purpose: O(n^2) insertion sort
 ## to be ran on the command line
 
 class InsertionSort:
