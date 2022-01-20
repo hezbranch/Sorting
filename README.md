@@ -1,5 +1,8 @@
 # Sorting
-Implementation of sorting algorithms from CLRS
+Implementation of sorting algorithms from Introduction to Algorithms (CLRS)
+
+Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms. MIT press.
+Chicago	
 
 **Command line tutorial for Insertion Sort:**
 
