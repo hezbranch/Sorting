@@ -16,3 +16,7 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction
 [-1, 0, 1, 3, 5, 9, 12]<br/>
 \>>> test.time_it()<br/>
 0.000028849 seconds <br/>
+
+Hoping to add MergeSort, Quicksort, and descriptions of best use-cases based on scale of data.
+
+Optimistically, an example of a quantum sorting algorithm (for space complexity analysis).
