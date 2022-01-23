@@ -21,6 +21,6 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction
 
 ## Next Steps
 
-Hoping to add MergeSort, Quicksort, and descriptions of best use-cases based on scale of data.
+Hoping to add MergeSort, Quicksort, and a brief discussion on best use-cases.
 
 Optimistically, an example of a quantum sorting algorithm (for space complexity analysis).
