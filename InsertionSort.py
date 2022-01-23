@@ -57,3 +57,4 @@ class InsertionSort:
             print(format(self.duration, '.9f'), "seconds")
             print("Access duration value using .duration")
 
+
