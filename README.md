@@ -3,6 +3,8 @@ Implementation of sorting algorithms from Introduction to Algorithms (CLRS)
 
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms. MIT press.	
 
+## Getting Started
+
 **Command line tutorial for Insertion Sort:**
 
 \>>> from InsertionSort import \* <br/>
@@ -16,6 +18,8 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction
 [-1, 0, 1, 3, 5, 9, 12]<br/>
 \>>> test.time_it()<br/>
 0.000028849 seconds <br/>
+
+## Next Steps
 
 Hoping to add MergeSort, Quicksort, and descriptions of best use-cases based on scale of data.
 
