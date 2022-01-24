@@ -5,7 +5,7 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction
 
 ## Getting Started
 
-**Command line tutorial for Insertion Sort:**
+*Command line tutorial for Insertion Sort:*
 
 \>>> from InsertionSort import \* <br/>
 \>>> unsorted = [1, 5, 3, -1, 0, 9, 12] <br/>
